@@ -1,0 +1,43 @@
+/* bootstrap override */
+:root {
+  --bs-font-sans-serif: "Manrope", sans-serif;
+}
+.navbar-nav {
+  --bs-nav-link-font-size: 1rem;
+  --bs-nav-link-font-weight: 600;
+}
+.navbar {
+  --bs-navbar-color: #000;
+  --bs-navbar-padding-y: 1.2rem;
+  --bs-navbar-nav-link-padding-x: 1rem;
+}
+
+/* margins */
+.mt-n5 {
+  margin-top: -4rem;
+}
+
+/* logo */
+.logo {
+  font-size: 2.2rem;
+  line-height: 24px;
+  letter-spacing: -3px;
+  font-family: "Archivo Black", sans-serif;
+}
+
+/* hero */
+.hero .display-1 {
+  line-height: 1;
+  font-weight: 800;
+  font-size: 12rem;
+}
+
+/* height / width */
+.h-full-screen {
+  height: 100vh;
+}
+
+/* color */
+.bg-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+}
