@@ -28,13 +28,13 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Home</a>
+                <a class="nav-link" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="#">Video Editing</a>
+                <a class="nav-link" href="video-editing.php">Video Editing</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Web Development</a>
+                <a class="nav-link" href="web-development.php">Web Development</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#">Contact</a>
