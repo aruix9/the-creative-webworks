@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row position-relative py-5">
         <div class="col-lg-7 py-5">
-          <h1 class="display-1 text-uppercase fw-bold">We are skilled in <span class="text-success">Web design</span> and <span class="text-success">Development</span></h1>
+          <h1 class="display-1 fw-800">We are skilled in <span class="text-success">Web design</span> and <span class="text-success">Development</span></h1>
           <div class="mt-5 mx-5 ps-5">
             <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis atque, similique aspernatur eveniet officia eos earum!</h4>
           </div>

@@ -37,7 +37,7 @@
                 <a class="nav-link" href="web-development.php">Web Development</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
+                <a class="nav-link" href="contact-us.php">Contact</a>
               </li>
             </ul>
           </div>

@@ -16,6 +16,9 @@
 .mt-n5 {
   margin-top: -4rem;
 }
+.mb-2n5 {
+  margin-bottom: -6rem;
+}
 
 /* logo */
 .logo {
@@ -40,4 +43,9 @@
 /* color */
 .bg-overlay {
   background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* typography */
+.fw-800 {
+  font-weight: 800;
 }
